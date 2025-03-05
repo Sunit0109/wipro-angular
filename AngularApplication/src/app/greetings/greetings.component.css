@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    margin-top: 45px;
+}
+
+h1 {
+    color: #ffb547;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #ff00a6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2ff1b4;
+}
+
+.active {
+    color: rgb(61, 77, 255);
+    font-weight: bolder;
+}
+
+input {
+    display: block;
+    margin-left: 0;
+    text-align: left;
+}
